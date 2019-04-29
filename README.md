@@ -2,4 +2,4 @@
 
 Logistic regression code implemented with no scikit library.
 
-In the ``LOGISTIC REGRESSION`` file, you can find a sample output of the code after execution.
+In the ``LOGISTIC REGRESSION.pdf`` file, you can find a sample output of the code after execution.
